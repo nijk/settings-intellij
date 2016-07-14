@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="Gruntfile" type="JavaScript" />
+      <mapping pattern="LICSENSE" type="MultiMarkdown" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping pattern="jenkins" type="PLAIN_TEXT" />
+      <mapping pattern="Env:JenkinsUser" type="PLAIN_TEXT" />
+      <mapping pattern="Gems: Jenkins" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="Local" type="PLAIN_TEXT" />
+      <mapping pattern="Env:JenkinsJava" type="PLAIN_TEXT" />
+      <mapping pattern="mrplus-trial-mru-paid-nijk" type="PLAIN_TEXT" />
+      <mapping ext="mp3" type="PLAIN_TEXT" />
+      <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
+      <mapping ext="lock-daniel" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
